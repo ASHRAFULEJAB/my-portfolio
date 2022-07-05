@@ -4,7 +4,7 @@ body {
    margin: 0;
     
 }
-h1{
+.ashraful{
    color: purple;
    font-size: 50px;
    font-weight: 700;
@@ -47,4 +47,35 @@ section{
 }
 .footer-class{
     text-align: center;
+}
+.center-class{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+.full-stack{
+    font-weight: bold;
+    
+
+}
+.experience{
+    background-image: url(./images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.developer{
+    margin: 10px 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 50%;
+    padding: 5%;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px rgb(214, 207, 207);
+}
+#webdev{
+    border-left:7px solid tomato;
+}
+#webdev1{
+    border-left:7px solid rgb(71, 255, 80);
 }
